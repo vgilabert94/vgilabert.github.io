@@ -1,99 +1,110 @@
 ---
 # Display name
-title: 吳健雄
+title: Vicent Gilabert Maño
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Vicent
+last_name: Gilabert
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👁
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Computer Vision Research Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: SEDDI
+    url: https://seddi.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:gilabert_vicent@hotmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/vgilabert94
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/vgilabert/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc in Computer Vision
+    institution: Universidad Rey Juan Carlos
+    date_start: 2021-09-01
+    date_end: 2023-06-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GA: 8.9/10.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Image and video processing, machine and deep learning, biometrics, robotics, 3D vision, medical image.
+      Python, OpenCV, SciPy, Keras (TF), MATLAB.
+
+  - area: BSc Telecommunications Engineer
+    institution: Universitat d'Alacant
+    date_start: 2014-09-01
+    date_end: 2019-07-31
     summary: |
-      GPA: 3.4/4.0
+      GA: 7.0/10.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        - Maths, Physics, circuits and electronics, communications, signal processing, image processing, audio processing, acoustics, microcontrollers, networks, etc.
+
+      Exchange year at: Universidad Técnica Federico Santa María (Valparaiso - Chile)
+        Subjects:
+        - Computer Vision
+        - IT Project Management
+        - Antennas and Propagation
+        - Wireless Networks
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Computer Vision Research Engineer
+    company_name: SEDDI
+    company_url: 'https://seddi.com/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      Department of Optics, rendering and AI. Research and development of computer vision algorithms to bring new functionalities and technologies to Textura.ai.
+      Review the state of the art in various areas of computer vision. Image retrieval, image quality assessment, image restoration (enhancement), etc.
+      Train and evaluate deep learning models (Pytroch).
+      Tools: Python, pytorch, lightning, opencv,  sk-image, PIL, numpy, scipy, pandas, matplotlib, ONNX, kornia, streamlit, etc.
+
+  - position: Junior Computer Vision Engineer
+    company_name: AUTIS INGENIEROS
+    company_url: 'https://autis.es/es/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-09-01
+    date_end: 2021-09-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Department of Computer Vision and Signal Processing Systems.
+      - Review, support and improvement of operation of computer vision systems in projects already in production.
+      - LabVIEW programming applied to image procesing.
+      - Commissioning of computer vision systems in industry:
+        - FORD VALENCIA (SPAIN)
+        - TOYOTA KENTUCKY (USA)
+        - TOYOTA INDIANA (USA)
+        - NISSAN MISSISSIPI (USA)
+  
+  - position: Research Internship
+    company_name: Pattern Recognition and Artificial Intelligence Group (University of Alicante)
+    company_url: 'https://praig.ua.es/'
+    company_logo: ''
+    date_start: 2018-10-01
+    date_end: 2019-01-30
+    summary: |
+      Optical Music Recognition.
+      Machine Learning and Neural networks especially Convolutional Neural Networks.
+      Image Processing.
+      Image Labeling for create an OMR dataset.
+      Tools:
+      -> Python + Tensorflow + Keras + OpenCV + Numpy
+      -> MATLAB
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
