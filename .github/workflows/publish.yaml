@@ -1,7 +1,7 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.123.4'
+  WC_HUGO_VERSION: '0.123.6'
 
 on:
   # Trigger the workflow every time you push to the `main` branch
@@ -29,7 +29,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-          # Fetch history for Hugo's .GitInfo and .Lastmod
+        # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
@@ -51,6 +51,8 @@ jobs:
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+    - name: Generate Pagefind search index
+      run: npx pagefind --source "public"
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v2
       with:
