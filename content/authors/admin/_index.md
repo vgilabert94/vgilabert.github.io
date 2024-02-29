@@ -181,20 +181,6 @@ awards:
     date: '2018-07-01'
     awarder: University of Alicante
 
-projects:
-  - title: [MSc thesis] Detection of minimum repeatable tile in fabric texture using CNN activations. 
-    url: 
-    date: '2023-07-01'
-    awarder: Universidad Rey Juan Carlos
-    summary: |
-      Mark: 10.
-  - title: [BSc thesis] Segmentation of handwritten music documents using Machine Learning.
-    url: https://github.com/vgilabert94/ObjectDetection-OMR
-    date: '2019-09-01'
-    awarder: University of Alicante
-    summary: |
-      Mark: 9.
-
 ---
 
 I am presently employed as a Computer Vision Research Engineer at SEDDI, where I contribute to the research and development of computer vision algorithms aimed at enhancing the functionalities and technologies of Textura.ai.
