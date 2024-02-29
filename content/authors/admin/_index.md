@@ -42,7 +42,6 @@ education:
     date_end: 2023-06-01
     summary: |
       GA: 8.9/10.0
-
       Image and video processing, machine and deep learning, biometrics, robotics, 3D vision, medical image.
       Python, OpenCV, SciPy, Keras (TF), MATLAB.
 
@@ -52,16 +51,10 @@ education:
     date_end: 2019-07-31
     summary: |
       GA: 7.0/10.0
-      
       Courses included:
         - Maths, Physics, circuits and electronics, communications, signal processing, image processing, audio processing, acoustics, microcontrollers, networks, etc.
-
       Exchange year at: Universidad Técnica Federico Santa María (Valparaiso - Chile)
-        Subjects:
-        - Computer Vision
-        - IT Project Management
-        - Antennas and Propagation
-        - Wireless Networks
+        Subjects: Computer Vision, IT Project Management, Antennas and Propagation, Wireless Networks.
 work:
   - position: Computer Vision Research Engineer
     company_name: SEDDI
@@ -166,7 +159,7 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      Offers a concise yet comprehensive overview of fundamental machine learning concepts and techniques. Through video lectures, quizzes, and programming assignments, learners explore topics such as linear regression, logistic regression, neural networks, support vector machines, and unsupervised learning. The course emphasizes practical implementation, with interactive exercises in MATLAB or Octave, and covers applications like recommender systems and large-scale machine learning. By the course's end, participants gain a solid understanding of machine learning principles and practical skills for solving real-world problems.
+      Offers a concise yet comprehensive overview of fundamental machine learning concepts and techniques. Through video lectures, quizzes, and programming assignments, learners explore topics such as linear regression, logistic regression, neural networks, support vector machines, and unsupervised learning. The course emphasizes practical implementation, with interactive exercises in MATLAB or Octave, and covers applications like recommender systems and large-scale machine learning.
   - title: Git and GitHub. A version control system from scratch.
     certificate_url: https://www.udemy.com/certificate/UC-f4381458-43ad-4fde-9dc1-e75472f3365c/
     awarder: Udemy 
