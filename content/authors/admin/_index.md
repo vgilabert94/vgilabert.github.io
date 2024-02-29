@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Computer Vision Research Engineer
+role: AI / Computer Vision Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -70,10 +70,11 @@ work:
     date_start: 2022-09-01
     date_end: ''
     summary: |2-
-      Department of Optics, rendering and AI. Research and development of computer vision algorithms to bring new functionalities and technologies to Textura.ai.
-      Review the state of the art in various areas of computer vision. Image retrieval, image quality assessment, image restoration (enhancement), etc.
-      Train and evaluate deep learning models (Pytroch).
-      Tools: Python, pytorch, lightning, opencv,  sk-image, PIL, numpy, scipy, pandas, matplotlib, ONNX, kornia, streamlit, etc.
+      Department of Optics, rendering and AI. 
+      - Research and development of computer vision algorithms to bring new functionalities and technologies to Textura.ai.
+      - Review the state of the art in various areas of computer vision. Image retrieval, image quality assessment, image restoration (enhancement), etc.
+      - Train and evaluate deep learning models (Pytroch).
+      - Tools: Python, pytorch, lightning, opencv,  sk-image, PIL, numpy, scipy, pandas, matplotlib, ONNX, kornia, streamlit, etc.
 
   - position: Junior Computer Vision Engineer
     company_name: AUTIS INGENIEROS
@@ -98,13 +99,10 @@ work:
     date_start: 2018-10-01
     date_end: 2019-01-30
     summary: |
-      Optical Music Recognition.
-      Machine Learning and Neural networks especially Convolutional Neural Networks.
-      Image Processing.
-      Image Labeling for create an OMR dataset.
-      Tools:
-      -> Python + Tensorflow + Keras + OpenCV + Numpy
-      -> MATLAB
+      - Optical Music Recognition.
+      - Computer vision, Machine Learning and Neural networks especially Convolutional Neural Networks.
+      - Image Labeling for create an OMR dataset.
+      - Tools: Python, Tensorflow, Keras, OpenCV, Numpy, MATLAB.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -115,69 +113,76 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: MATLAB
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 60
+        icon: code-bracket
+      - name: Computer Vision
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 75
+        icon: code-bracket
+      - name: Deep Learning
+        description: ''
+        percent: 75
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 70
         icon: person-simple-walk
-      - name: Cats
+      - name: Reading
         description: ''
-        percent: 100
+        percent: 60
         icon: cat
-      - name: Photography
+      - name: Cinema
+        description: ''
+        percent: 90
+        icon: camera
+      - name: Cooking
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: English
+  - name: Spanish
     percent: 100
-  - name: Chinese
+  - name: Catalan/Valencian
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Machine Learning
+    url: https://www.coursera.org/specializations/machine-learning-introduction
+    certificate_url: https://www.coursera.org/account/accomplishments/verify/689PRYNDEY5A?utm_campaign=copybutton_certificate&utm_content=cert_image&utm_medium=certificate&utm_source=link
+    date: '2020-04-26'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
+      Offers a concise yet comprehensive overview of fundamental machine learning concepts and techniques. Through video lectures, quizzes, and programming assignments, learners explore topics such as linear regression, logistic regression, neural networks, support vector machines, and unsupervised learning. The course emphasizes practical implementation, with interactive exercises in MATLAB or Octave, and covers applications like recommender systems and large-scale machine learning. By the course's end, participants gain a solid understanding of machine learning principles and practical skills for solving real-world problems.
+  - title: Git and GitHub. A version control system from scratch.
+    certificate_url: https://www.udemy.com/certificate/UC-f4381458-43ad-4fde-9dc1-e75472f3365c/
+    awarder: Udemy 
+    date: '2020-04-01'
+    icon: udemy
+  - title: Intermediate Python for Data Science
+    certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/456b8a6cd85018f4c553b85f8bcb2e10ab1806a2
+    awarder: Datacamp 
+    date: '2019-10-01'
     icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: 'Introductionn of Deep Learning'
+    url: 
+    certificate_url: https://www.datacamp.com
+    date: '2018-07-01'
+    awarder: University of Alicante
+    icon: 
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am presently employed as a Computer Vision Research Engineer at SEDDI, where I contribute to the research and development of computer vision algorithms aimed at enhancing the functionalities and technologies of Textura.ai.
