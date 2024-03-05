@@ -132,8 +132,6 @@ mAP: 0.7737
 #### Output images
 Green= GT ; Red = staff ; orange = lyrics ; blue = empty_staff
 
-<p align="center">
-  <img src="https://github.com/vgilabert94/ObjectDetection-OMR/blob/master/results/11.png" width="600" height="400" alt="Example result of RetinaNet on MS COCO"/>
-  <img src="https://github.com/vgilabert94/ObjectDetection-OMR/blob/master/results/40.png" width="600" height="400" alt="Example result of RetinaNet on MS COCO"/>
-  <img src="https://github.com/vgilabert94/ObjectDetection-OMR/blob/master/results/44.png" width="600" height="400" alt="Example result of RetinaNet on MS COCO"/>
-</p>
+![Alt text](res1.png)
+![Alt text](res2.png)
+![Alt text](res3.png)
