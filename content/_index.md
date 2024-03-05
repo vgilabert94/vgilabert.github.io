@@ -84,7 +84,7 @@ sections:
         - title: Research Internship
           company: Pattern Recognition and Artificial Intelligence Group | University of Alicante
           company_url: 'https://praig.ua.es/'
-          company_logo: praig
+          company_logo: ua
           location: Alicante
           date_start: '2018-10-01'
           date_end: '2019-02-01'
