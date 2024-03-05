@@ -154,6 +154,8 @@ sections:
           tag: Deep Learning
         - name: Computer Vision
           tag: Computer Vision
+        - name: Streamlit
+          tag: Streamlit
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
