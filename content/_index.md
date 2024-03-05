@@ -69,7 +69,8 @@ sections:
           location: Remote
           date_start: '2022-09-01'
           date_end: ''
-          description: 'The Optics, Rendering, and AI Department focuses on advancing Textura.ai through cutting-edge research and development in computer vision. This involves exploring diverse areas such as image retrieval, quality assessment, and restoration, while continually assessing the latest advancements in the field. Utilizing tools like Python, PyTorch, OpenCV, and various libraries, the team trains and evaluates deep learning models to enhance Textura.ai's capabilities, ensuring its position at the forefront of technological innovation.'
+          description: |2-
+            The Optics, Rendering, and AI Department focuses on advancing Textura.ai through cutting-edge research and development in computer vision. This involves exploring diverse areas such as image retrieval, quality assessment, and restoration, while continually assessing the latest advancements in the field. Utilizing tools like Python, PyTorch, OpenCV, and various libraries, the team trains and evaluates deep learning models to enhance Textura.ai's capabilities, ensuring its position at the forefront of technological innovation.
         - title: Junior Computer Vision Engineer
           company: AUTIS INGENIEROS
           company_url: 'https://autis.es/'
@@ -77,15 +78,17 @@ sections:
           location: Gandia (Valencia)
           date_start: '2019-09-01'
           date_end: '2021-09-01'
-          description: 'In my role within the Department of Computer Vision and Signal Processing Systems, I've been primarily engaged in commissioning computer vision systems across various industries. Noteworthy projects include commissions for Ford Valencia in Spain, Toyota Kentucky, Toyota Indiana, and Nissan Mississippi in the United States. These assignments have allowed me to apply my expertise in optimizing and ensuring the smooth operation of computer vision systems within industrial settings.'
+          description: |2-
+            In my role within the Department of Computer Vision and Signal Processing Systems, I've been primarily engaged in commissioning computer vision systems across various industries. Noteworthy projects include commissions for Ford Valencia in Spain, Toyota Kentucky, Toyota Indiana, and Nissan Mississippi in the United States. These assignments have allowed me to apply my expertise in optimizing and ensuring the smooth operation of computer vision systems within industrial settings.
         - title: Research Internship
-          company: Pattern Recognition and Artificial Intelligence Group |  University of Alicante
+          company: Pattern Recognition and Artificial Intelligence Group | University of Alicante
           company_url: 'https://praig.ua.es/'
           company_logo: 
           location: Alicante
           date_start: '2018-10-01'
           date_end: '2019-02-01'
-          description: 'Optical Music Recognition (OMR) encompasses the utilization of computer vision, machine learning, and neural networks, with a particular emphasis on Convolutional Neural Networks (CNNs). One of the core tasks involves image labeling to construct a comprehensive OMR dataset. To accomplish this, essential tools such as Python, TensorFlow, Keras, OpenCV, Numpy, and MATLAB are employed, facilitating the development and refinement of OMR algorithms and systems.'
+          description: |2-
+            Optical Music Recognition (OMR) encompasses the utilization of computer vision, machine learning, and neural networks, with a particular emphasis on Convolutional Neural Networks (CNNs). One of the core tasks involves image labeling to construct a comprehensive OMR dataset. To accomplish this, essential tools such as Python, TensorFlow, Keras, OpenCV, Numpy, and MATLAB are employed, facilitating the development and refinement of OMR algorithms and systems.
     design:
       columns: '2'
   
