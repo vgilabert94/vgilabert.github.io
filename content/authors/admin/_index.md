@@ -25,7 +25,7 @@ organizations:
     url: https://www.seddi.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer Vision Research Engineer at SEDDI, where I contribute to the research and development of computer vision algorithms aimed at enhancing the functionalities and technologies of Textura.ai.
+bio: I am currently employed as a Computer Vision Research Engineer at SEDDI, where I contribute to the research and development of computer vision algorithms to enhance the functionality and technology of Textura.ai.
 
 # Interests to show in About widget
 interests:
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-I am presently employed as a Computer Vision Research Engineer at SEDDI, where I contribute to the research and development of computer vision algorithms aimed at enhancing the functionalities and technologies of Textura.ai.
+I am currently employed as a Computer Vision Research Engineer at SEDDI, where I contribute to the research and development of computer vision algorithms to enhance the functionality and technology of Textura.ai.
 {style="text-align: justify;"}
