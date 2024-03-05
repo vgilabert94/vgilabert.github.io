@@ -31,8 +31,6 @@ url_video: ''
 # slides: example
 ---
 
-# Object Detection of handwritten music documents using deep learning (RetinaNET)
-
 This work is part of my final degree work for Telecommunications Engineering. --> [Complete PDF File](https://drive.google.com/file/d/1rfhm4NMn3dcm3kBOv1kettQr39FAND2H/view?usp=sharing)
 
 I'm going to train Keras-RetinaNET model to detect objets in handwritten music documents in the field of Optical Music Recognition. 
