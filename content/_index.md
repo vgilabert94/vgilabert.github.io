@@ -104,38 +104,6 @@ sections:
             - Tools: Python, Tensorflow, Keras, OpenCV, Numpy, MATLAB.'
     design:
       columns: '2'
-  
-  - block: education
-    content:
-      title: Education
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      #courses:
-      #  - course:  MSc in Computer Vision
-      #    institution: Universidad Rey Juan Carlos
-      #    year: 2021
-      #  - course: BSc Telecommunications Engineer
-      #    institution: Universitat d'Alacant
-      #    year: 2014
-      items:
-        - area: BSc Telecommunications Engineer
-          institution: Universitat d'Alacant
-          date_start: '2014-09-01'
-          date_end: '2019-07-31'
-          summary: |2-
-            Department of Optics, rendering and AI. 
-            - Research and development of computer vision algorithms to bring new functionalities and technologies to Textura.ai.
-            - Review the state of the art in various areas of computer vision. Image retrieval, image quality assessment, image restoration (enhancement), etc.
-            - Train and evaluate deep learning models (Pytroch).
-            - Tools: Python, pytorch, lightning, opencv,  sk-image, PIL, numpy, scipy, pandas, matplotlib, ONNX, kornia, streamlit, etc.
-    design:
-      columns: '2'
     
   - block: accomplishments
     content:
