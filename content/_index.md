@@ -107,9 +107,9 @@ sections:
           date_start: '2021-09-01'
           date_end: '2023-06-01'
           description: |2-
-            GA: 8.9/10.0
-            Image and video processing, machine and deep learning, biometrics, robotics, 3D vision, medical image.
-            Python, OpenCV, Numpy, SciPy, Keras (TF), MATLAB, matplotlib, pandas, etc.
+            GA: 8.9 / 10.0
+            * Image and video processing, machine and deep learning, biometrics, robotics, 3D vision, medical image.
+            * Python, OpenCV, Numpy, SciPy, Keras (TF), MATLAB, matplotlib, pandas, etc.
         - title: BSc Telecommunications Engineer (sound and image specialisation)
           company: Universitat d'Alacant
           company_url: 'https://www.ua.es/'
@@ -118,7 +118,7 @@ sections:
           date_start: '2014-09-01'
           date_end: '2019-09-01'
           description: |2-
-            GA: 7.0/10.0
+            GA: 7.0 / 10.0
             * Subjects included: Maths, Physics, circuits and electronics, communications, signal processing, image processing, audio processing, acoustics, microcontrollers, networks, etc.
             * Exchange year at: Universidad Técnica Federico Santa María (Valparaiso - Chile)
               - Subjects: Computer Vision, IT Project Management, Antennas and Propagation, Wireless Networks.
@@ -185,7 +185,6 @@ sections:
           url: ''
     design:
       columns: '2'
-      view: 'list'
   
   # - block: collection
   #   id: posts
