@@ -93,6 +93,24 @@ sections:
     design:
       columns: '2'
   
+  - block: experience
+    id: education
+    content:
+      title: Education
+      date_format: Jan 2006
+      items:
+        - title: BSc Telecommunications Engineer
+          company: Universitat d'Alacant
+          company_url: 'https://www.ua.es/'
+          company_logo: ua
+          location: 
+          date_start: '2014-09-01'
+          date_end: '2019-09-01'
+          description: |2-
+            bla bla bla
+    design:
+      columns: '2'
+  
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
