@@ -102,7 +102,7 @@ sections:
         - title: MSc in Computer Vision
           company: Universidad Rey Juan Carlos
           company_url: 'https://www.ua.es/'
-          company_logo: ua
+          company_logo: urjc
           location: 
           date_start: '2021-09-01'
           date_end: '2023-06-01'
