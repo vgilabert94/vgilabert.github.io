@@ -51,6 +51,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -255,7 +256,7 @@ sections:
       text: |-
         Get in touch!
       # Contact (add or remove contact options as necessary)
-      email: gilabert_vicent@hotmail.com
+      email: vgilabert.94@gmail.com
       phone: +34 629946144
       # appointment_url: 'https://calendly.com'
       # address:

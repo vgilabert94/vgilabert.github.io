@@ -25,7 +25,7 @@ organizations:
     url: https://www.seddi.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include visual perception, deep learning and unsupervised learning.
+bio: Computer Vision Research Engineer at SEDDI, where I contribute to the research and development of computer vision algorithms aimed at enhancing the functionalities and technologies of Textura.ai.
 
 # Interests to show in About widget
 interests:
