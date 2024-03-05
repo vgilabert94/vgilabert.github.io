@@ -77,7 +77,7 @@ sections:
             - Tools: Python, pytorch, lightning, opencv,  sk-image, PIL, numpy, scipy, pandas, matplotlib, ONNX, kornia, streamlit, etc.'
         - title: Junior Computer Vision Engineer
           company: AUTIS INGENIEROS
-          company_url: ''https://autis.es/es/'
+          company_url: 'https://autis.es/es/'
           company_logo: 
           location: Gandia (Valencia)
           date_start: '2019-09-01'
