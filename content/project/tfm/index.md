@@ -1,7 +1,6 @@
 ---
 title: Detection of minimum repeatable tile in fabric textures using CNN activations.
-summary: MSc Thesis. This work focuses on a modern approach that uses a CNN to extract the activation maps of
-texture images. The aim of our work is to research and develop auto-tiling, i.e. an automatic process for the detection of the minimum repeatable pattern. This involves a three-stage process (auto-alignment, detection of the minimum repeatable tile and stitching), and an online demo has been created and deployed for users to test it. This work has been done with the company SEDDI, as it is intended to integrate this product into SEDDI Textura.
+summary: MSc Thesis. This work focuses on a modern approach that uses a CNN to extract the activation maps of texture images and detect the minimum repeatable pattern of fabric images.
 tags:
   - Deep Learning
   - Computer Vision
