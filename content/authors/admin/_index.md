@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Vicent Gilabert Maño
+title: Vicent Gilabert Mañó
 
 # Name pronunciation (optional)
-name_pronunciation: 
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Vicent
-last_name: Gilabert
+last_name: Gilabert Mañó
 
 # Status emoji
 status:
@@ -19,161 +19,107 @@ superuser: true
 # Role/position/tagline
 role: AI / Computer Vision Engineer
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to show in About widget
 organizations:
   - name: SEDDI
-    url: https://seddi.com/
+    url: https://www.seddi.com/
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:gilabert_vicent@hotmail.com'
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/vgilabert94
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/vgilabert/
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include visual perception, deep learning and unsupervised learning.
 
+# Interests to show in About widget
+interests:
+  - Computer Vision
+  - Artificial Intelligence
+  - Neural Networks
+  - Software development
+
+# Education to show in About widget
 education:
-  - area: MSc in Computer Vision
-    institution: Universidad Rey Juan Carlos
-    date_start: 2021-09-01
-    date_end: 2023-06-01
-    summary: |
-      GA: 8.9/10.0
-      Image and video processing, machine and deep learning, biometrics, robotics, 3D vision, medical image.
-      Python, OpenCV, SciPy, Keras (TF), MATLAB.
-
-  - area: BSc Telecommunications Engineer
-    institution: Universitat d'Alacant
-    date_start: 2014-09-01
-    date_end: 2019-07-31
-    summary: |
-      GA: 7.0/10.0
-      Courses included:
-        - Maths, Physics, circuits and electronics, communications, signal processing, image processing, audio processing, acoustics, microcontrollers, networks, etc.
-      Exchange year at: Universidad Técnica Federico Santa María (Valparaiso - Chile)
-        Subjects: Computer Vision, IT Project Management, Antennas and Propagation, Wireless Networks.
-work:
-  - position: Computer Vision Research Engineer
-    company_name: SEDDI
-    company_url: 'https://seddi.com/'
-    company_logo: ''
-    date_start: 2022-09-01
-    date_end: ''
-    summary: |2-
-      Department of Optics, rendering and AI. 
-      - Research and development of computer vision algorithms to bring new functionalities and technologies to Textura.ai.
-      - Review the state of the art in various areas of computer vision. Image retrieval, image quality assessment, image restoration (enhancement), etc.
-      - Train and evaluate deep learning models (Pytroch).
-      - Tools: Python, pytorch, lightning, opencv,  sk-image, PIL, numpy, scipy, pandas, matplotlib, ONNX, kornia, streamlit, etc.
-
-  - position: Junior Computer Vision Engineer
-    company_name: AUTIS INGENIEROS
-    company_url: 'https://autis.es/es/'
-    company_logo: ''
-    date_start: 2019-09-01
-    date_end: 2021-09-01
-    summary: |
-      Department of Computer Vision and Signal Processing Systems.
-      - Review, support and improvement of operation of computer vision systems in projects already in production.
-      - LabVIEW programming applied to image procesing.
-      - Commissioning of computer vision systems in industry:
-        - FORD VALENCIA (SPAIN)
-        - TOYOTA KENTUCKY (USA)
-        - TOYOTA INDIANA (USA)
-        - NISSAN MISSISSIPI (USA)
-  
-  - position: Research Internship
-    company_name: Pattern Recognition and Artificial Intelligence Group (University of Alicante)
-    company_url: 'https://praig.ua.es/'
-    company_logo: ''
-    date_start: 2018-10-01
-    date_end: 2019-01-30
-    summary: |
-      - Optical Music Recognition.
-      - Computer vision, Machine Learning and Neural networks especially Convolutional Neural Networks.
-      - Image Labeling for create an OMR dataset.
-      - Tools: Python, Tensorflow, Keras, OpenCV, Numpy, MATLAB.
+  courses:
+    - course:  MSc in Computer Vision
+      institution: Universidad Rey Juan Carlos
+      year: 2021
+    - course: BSc Telecommunications Engineer
+      institution: Universitat d'Alacant
+      year: 2014
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical Skills
+  - name: Technical
     items:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: MATLAB
+        icon: python
+        icon_pack: fab
+      - name: Data Science
         description: ''
-        percent: 60
-        icon: code-bracket
-      - name: Computer Vision
+        percent: 100
+        icon: chart-line
+        icon_pack: fas
+      - name: SQL
         description: ''
-        percent: 75
-        icon: code-bracket
-      - name: Deep Learning
-        description: ''
-        percent: 75
-        icon: code-bracket
+        percent: 40
+        icon: database
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        percent: 70
-        icon: person-simple-walk
-      - name: Reading
-        description: ''
         percent: 60
-        icon: cat
-      - name: Cinema
+        icon: person-hiking
+        icon_pack: fas
+      - name: Cats
         description: ''
-        percent: 90
-        icon: camera
-      - name: Cooking
+        percent: 100
+        icon: cat
+        icon_pack: fas
+      - name: Photography
         description: ''
         percent: 80
-        icon: camera
+        icon: camera-retro
+        icon_pack: fas
 
-languages:
-  - name: Spanish
-    percent: 100
-  - name: Catalan/Valencian
-    percent: 100
-  - name: English
-    percent: 75
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/vgilabert/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/vgilabert94
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Twitter
+#    display:
+#      header: true
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.es/citations?user=t1l1vIQAAAAJ&hl=es
+#  - icon: orcid
+#    icon_pack: fab
+#    link: https://orcid.org/0000-0003-0305-7806
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Machine Learning
-    url: https://www.coursera.org/specializations/machine-learning-introduction
-    certificate_url: https://www.coursera.org/account/accomplishments/verify/689PRYNDEY5A?utm_campaign=copybutton_certificate&utm_content=cert_image&utm_medium=certificate&utm_source=link
-    date: '2020-04-26'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      Offers a concise yet comprehensive overview of fundamental machine learning concepts and techniques. Through video lectures, quizzes, and programming assignments, learners explore topics such as linear regression, logistic regression, neural networks, support vector machines, and unsupervised learning. The course emphasizes practical implementation, with interactive exercises in MATLAB or Octave, and covers applications like recommender systems and large-scale machine learning.
-  - title: Git and GitHub. A version control system from scratch.
-    certificate_url: https://www.udemy.com/certificate/UC-f4381458-43ad-4fde-9dc1-e75472f3365c/
-    awarder: Udemy 
-    date: '2020-04-01'
-    icon: udemy
-  - title: Intermediate Python for Data Science
-    certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/456b8a6cd85018f4c553b85f8bcb2e10ab1806a2
-    awarder: Datacamp 
-    date: '2019-10-01'
-    icon: datacamp
-  - title: 'Introductionn of Deep Learning'
-    date: '2018-07-01'
-    awarder: University of Alicante
-
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 I am presently employed as a Computer Vision Research Engineer at SEDDI, where I contribute to the research and development of computer vision algorithms aimed at enhancing the functionalities and technologies of Textura.ai.
+{style="text-align: justify;"}
