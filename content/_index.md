@@ -99,7 +99,18 @@ sections:
       title: Education
       date_format: Jan 2006
       items:
-        - title: BSc Telecommunications Engineer
+        - title: MSc in Computer Vision
+          company: Universidad Rey Juan Carlos
+          company_url: 'https://www.ua.es/'
+          company_logo: ua
+          location: 
+          date_start: '2021-09-01'
+          date_end: '2023-06-01'
+          description: |2-
+            GA: 8.9/10.0
+            Image and video processing, machine and deep learning, biometrics, robotics, 3D vision, medical image.
+            Python, OpenCV, Numpy, SciPy, Keras (TF), MATLAB, matplotlib, pandas, etc.
+        - title: BSc Telecommunications Engineer (sound and image specialisation)
           company: Universitat d'Alacant
           company_url: 'https://www.ua.es/'
           company_logo: ua
@@ -107,7 +118,19 @@ sections:
           date_start: '2014-09-01'
           date_end: '2019-09-01'
           description: |2-
-            bla bla bla
+            GA: 7.0/10.0
+            * Subjects included: Maths, Physics, circuits and electronics, communications, signal processing, image processing, audio processing, acoustics, microcontrollers, networks, etc.
+            * Exchange year at: Universidad Técnica Federico Santa María (Valparaiso - Chile)
+              - Subjects: Computer Vision, IT Project Management, Antennas and Propagation, Wireless Networks.
+        - title: Higher Technician in Administration of Computer Systems and Networks.
+          date_start: '2012-09-01'
+          date_end: '2014-06-01'
+          company: IES Maria Enriquez
+        - title: Technician in Microcomputer Systems and Networks.
+          date_start: '2010-09-01'
+          date_end: '2012-06-01'
+          company: IES Maria Enriquez
+
     design:
       columns: '2'
   
@@ -162,6 +185,7 @@ sections:
           url: ''
     design:
       columns: '2'
+      view: 'list'
   
   # - block: collection
   #   id: posts
