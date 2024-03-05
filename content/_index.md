@@ -69,27 +69,15 @@ sections:
           location: Remote
           date_start: '2022-09-01'
           date_end: ''
-          description: '
-            Department of Optics, rendering and AI. 
-            - Research and development of computer vision algorithms to bring new functionalities and technologies to Textura.ai.
-            - Review the state of the art in various areas of computer vision. Image retrieval, image quality assessment, image restoration (enhancement), etc.
-            - Train and evaluate deep learning models (Pytroch).
-            - Tools: Python, pytorch, lightning, opencv,  sk-image, PIL, numpy, scipy, pandas, matplotlib, ONNX, kornia, streamlit, etc.'
+          description: 'The Optics, Rendering, and AI Department focuses on advancing Textura.ai through cutting-edge research and development in computer vision. This involves exploring diverse areas such as image retrieval, quality assessment, and restoration, while continually assessing the latest advancements in the field. Utilizing tools like Python, PyTorch, OpenCV, and various libraries, the team trains and evaluates deep learning models to enhance Textura.ai's capabilities, ensuring its position at the forefront of technological innovation.'
         - title: Junior Computer Vision Engineer
           company: AUTIS INGENIEROS
-          company_url: 'https://autis.es/es/'
+          company_url: 'https://autis.es/'
           company_logo: 
           location: Gandia (Valencia)
           date_start: '2019-09-01'
           date_end: '2021-09-01'
-          description: 'Department of Computer Vision and Signal Processing Systems.
-            - Review, support and improvement of operation of computer vision systems in projects already in production.
-            - LabVIEW programming applied to image procesing.
-            - Commissioning of computer vision systems in industry:
-              - FORD VALENCIA (SPAIN)
-              - TOYOTA KENTUCKY (USA)
-              - TOYOTA INDIANA (USA)
-              - NISSAN MISSISSIPI (USA)'
+          description: 'In my role within the Department of Computer Vision and Signal Processing Systems, I've been primarily engaged in commissioning computer vision systems across various industries. Noteworthy projects include commissions for Ford Valencia in Spain, Toyota Kentucky, Toyota Indiana, and Nissan Mississippi in the United States. These assignments have allowed me to apply my expertise in optimizing and ensuring the smooth operation of computer vision systems within industrial settings.'
         - title: Research Internship
           company: Pattern Recognition and Artificial Intelligence Group |  University of Alicante
           company_url: 'https://praig.ua.es/'
@@ -97,14 +85,31 @@ sections:
           location: Alicante
           date_start: '2018-10-01'
           date_end: '2019-02-01'
-          description: '
-            - Optical Music Recognition.
-            - Computer vision, Machine Learning and Neural networks especially Convolutional Neural Networks.
-            - Image Labeling for create an OMR dataset.
-            - Tools: Python, Tensorflow, Keras, OpenCV, Numpy, MATLAB.'
+          description: 'Optical Music Recognition (OMR) encompasses the utilization of computer vision, machine learning, and neural networks, with a particular emphasis on Convolutional Neural Networks (CNNs). One of the core tasks involves image labeling to construct a comprehensive OMR dataset. To accomplish this, essential tools such as Python, TensorFlow, Keras, OpenCV, Numpy, and MATLAB are employed, facilitating the development and refinement of OMR algorithms and systems.'
     design:
       columns: '2'
-    
+  
+  - block: education
+    content:
+      title: Education
+      date_format: Jan 2006
+      #courses:
+      #  - course:  MSc in Computer Vision
+      #    institution: Universidad Rey Juan Carlos
+      #    year: 2021
+      #  - course: BSc Telecommunications Engineer
+      #    institution: Universitat d'Alacant
+      #    year: 2014
+      items:
+        - area: BSc Telecommunications Engineer
+          institution: Universitat d'Alacant
+          date_start: '2014-09-01'
+          date_end: '2019-07-31'
+          summary: |2-
+            bla bla bla
+    design:
+      columns: '2'
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -118,32 +123,41 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Neural Networks and Deep Learning
-          certificate_url: https://www.coursera.org
+        - title: Machine Learning
+          certificate_url: https://www.coursera.org/account/accomplishments/verify/689PRYNDEY5A?utm_campaign=copybutton_certificate&utm_content=cert_image&utm_medium=certificate&utm_source=link
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
+          date_start: '2020-04-26'
+          url: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          url: ''
-        - title: Blockchain Fundamentals
-          certificate_url: https://www.edx.org
+          description: 'Offers a concise yet comprehensive overview of fundamental machine learning concepts and techniques. Through video lectures, quizzes, and programming assignments, learners explore topics such as linear regression, logistic regression, neural networks, support vector machines, and unsupervised learning. The course emphasizes practical implementation, with interactive exercises in MATLAB or Octave, and covers applications like recommender systems and large-scale machine learning.'
+        - title: Git and GitHub. A version control system from scratch.
+          certificate_url: https://www.udemy.com/certificate/UC-f4381458-43ad-4fde-9dc1-e75472f3365c/
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - title: 'Object-Oriented Programming in R'
-          certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2019-10-01'
+          description: 
+          icon: udemy
+          organization: Udemy
+          organization_url: https://www.udemy.com/
+          url: ''
+        - title: 'Intermediate Python for Data Science'
+          certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/456b8a6cd85018f4c553b85f8bcb2e10ab1806a2
+          date_end: ''
+          date_start: '2019-10-01'
           description: ''
           icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
+          url: ''
+        - title: 'Introductionn of Deep Learning'
+          certificate_url: 
+          date_end: ''
+          date_start: '2018-07-01'
+          description: ''
+          icon: 
+          organization: University of Alicante
+          organization_url: 'https://www.ua.es/'
           url: ''
     design:
       columns: '2'
