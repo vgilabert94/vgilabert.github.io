@@ -69,12 +69,12 @@ sections:
           location: Remote
           date_start: '2022-09-01'
           date_end: ''
-          description: |2-
+          description: '
             Department of Optics, rendering and AI. 
             - Research and development of computer vision algorithms to bring new functionalities and technologies to Textura.ai.
             - Review the state of the art in various areas of computer vision. Image retrieval, image quality assessment, image restoration (enhancement), etc.
             - Train and evaluate deep learning models (Pytroch).
-            - Tools: Python, pytorch, lightning, opencv,  sk-image, PIL, numpy, scipy, pandas, matplotlib, ONNX, kornia, streamlit, etc.
+            - Tools: Python, pytorch, lightning, opencv,  sk-image, PIL, numpy, scipy, pandas, matplotlib, ONNX, kornia, streamlit, etc.'
         - title: Junior Computer Vision Engineer
           company: AUTIS INGENIEROS
           company_url: ''https://autis.es/es/'
