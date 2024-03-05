@@ -93,7 +93,7 @@ sections:
     design:
       columns: '2'
   
-  - block: experience
+  - block: education
     id: education
     content:
       title: Education
