@@ -19,8 +19,8 @@ links:
   #   name: Follow
   #   url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: './VGM_Memoria_LOWres.pdf'
-url_slides: './VGM_Slides.pdf'
+url_pdf: '/static/uploads/VGM_Memoria_LOWres.pdf'
+url_slides: '/static/uploads/VGM_Slides.pdf'
 url_video: ''
 
 # Slides (optional).
