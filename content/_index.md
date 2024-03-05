@@ -75,7 +75,7 @@ sections:
         - title: Junior Computer Vision Engineer
           company: AUTIS INGENIEROS
           company_url: 'https://autis.es/'
-          company_logo: 
+          company_logo: autis
           location: Gandia (Valencia)
           date_start: '2019-09-01'
           date_end: '2021-09-01'
@@ -84,7 +84,7 @@ sections:
         - title: Research Internship
           company: Pattern Recognition and Artificial Intelligence Group | University of Alicante
           company_url: 'https://praig.ua.es/'
-          company_logo: 
+          company_logo: praig
           location: Alicante
           date_start: '2018-10-01'
           date_end: '2019-02-01'
