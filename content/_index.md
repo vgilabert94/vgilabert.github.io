@@ -92,27 +92,6 @@ sections:
     design:
       columns: '2'
   
-  - block: education
-    content:
-      title: Education
-      date_format: Jan 2006
-      #courses:
-      #  - course:  MSc in Computer Vision
-      #    institution: Universidad Rey Juan Carlos
-      #    year: 2021
-      #  - course: BSc Telecommunications Engineer
-      #    institution: Universitat d'Alacant
-      #    year: 2014
-      items:
-        - area: BSc Telecommunications Engineer
-          institution: Universitat d'Alacant
-          date_start: '2014-09-01'
-          date_end: '2019-07-31'
-          summary: |2-
-            bla bla bla
-    design:
-      columns: '2'
-
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
