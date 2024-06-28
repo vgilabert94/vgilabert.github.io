@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: AI / Computer Vision Engineer
+role: Data Scientist / Computer Vision Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: SEDDI
-    url: https://www.seddi.com/
+  - name: Cognizant
+    url: https://www.cognizant.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently employed as a Computer Vision Research Engineer at SEDDI, where I contribute to the research and development of computer vision algorithms to enhance the functionality and technology of Textura.ai.
+bio: I am currently employed as a Data Scientist specialised in Computer Vision at Cognizant, where I design and implement ML/software solutions for various companies.
 
 # Interests to show in About widget
 interests:
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-I am currently employed as a Computer Vision Research Engineer at SEDDI, where I contribute to the research and development of computer vision algorithms to enhance the functionality and technology of Textura.ai.
+I am currently employed as a Data Scientist specialised in Computer Vision at Cognizant, where I design and implement ML/software solutions for various companies.
 {style="text-align: justify;"}

@@ -63,13 +63,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Data Scientist
+          company: Cognizant
+          company_url: 'https://www.cognizant.com/'
+          company_logo: cognizant-logo
+          location: Remote
+          date_start: '2024-05-06'
+          date_end: ''
+          description: |2-
+            AIA: Artificial Intelligence and Analytics. Incorporating GenAI into the field of document analysis. 
         - title: Computer Vision Research Engineer
           company: SEDDI
           company_url: 'https://seddi.com/'
           company_logo: seddi-logo
           location: Remote
           date_start: '2022-09-01'
-          date_end: ''
+          date_end: '2024-05-03'
           description: |2-
             The Optics, Rendering, and AI Department focuses on advancing Textura.ai through cutting-edge research and development in computer vision. This involves exploring diverse areas such as image retrieval, quality assessment, and restoration, while continually assessing the latest advancements in the field. Utilizing tools like Python, PyTorch, OpenCV, and various libraries, the team trains and evaluates deep learning models to enhance Textura.ai's capabilities, ensuring its position at the forefront of technological innovation.
         - title: Junior Computer Vision Engineer
@@ -156,6 +165,8 @@ sections:
           tag: Computer Vision
         - name: Streamlit
           tag: Streamlit
+        - name: Python
+          tag: Python
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
